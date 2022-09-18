@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.livraison p{
+    margin-top: -6%;
+    margin-right: 30%;
+}
+.livraison{
+    width: 100%;
+    height: 80px;
+    padding-top: 40px;
+}
+body{
+    background:linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(image/awwa.gif);
+    background-size: 100%;
+    background-repeat: repeat;
+    font-family: sans-serif;
+    height: 100vh;
+}
+.nav-bar{
+    padding: 1rem 0;
+    display: flex;
+    margin-right: 10%;
+    justify-content: flex-end;
+    align-items: center;
+}
+.nav-truc{
+    margin-right: 2rem;
+    text-transform: uppercase;
+    font-weight: 800;
+    text-decoration: none;
+}
+.nav-bar a{
+    color: white;
+    letter-spacing: 4px;
+    padding: 10px 10px;
+    border: 1px solid white;
+    text-decoration: none;
+}
+.nav-bar a:hover{
+    background: rgb(218, 211, 211);
+    color:black;
+}
+.nav-bar :first-child{
+    margin-right: 40%;
+}
+.txt {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    font-size: 300%;
+}
+p{
+    color: white;
+    font-size: 19px;
+    text-align: center;
+    font-family: Arial;
+}
+
+img{
+    width: 20%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pre{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial;
+    margin-bottom: 4%;
+}
+.cliquez{
+    margin-left: 40%;
+    margin-bottom: 10%;
+
+}
+.cliquez a{
+    color: white;
+    letter-spacing: 4px;
+    padding: 10px 10px;
+    border: 1px solid white;
+    text-decoration: none;
+}
+    .cliquez a:hover{
+    background: rgb(218, 211, 211);
+    color:black;
+}
+footer{
+    background: rgb(185, 167, 167);
+    margin-top: -0%;
+}

@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.noir p {
+    position: relative;;
+    color: white;
+    font-size: 50px;
+    padding: 1px 1px;
+    
+}
+.modnoir img{
+    width: 20%;
+    padding: 1px 1px;
+    border: 1px solid white;
+}  
+.caranoir p{
+    padding: 1px 1px;
+}
+.listnoir{
+    color: white;
+    margin-left: 30%;
+}
+.prixnoir{
+    margin-left: 65%;
+    margin-top: 1%;
+
+}
+.prixnoir a{
+    color: white;
+    letter-spacing: 4px;
+    padding: 10px 10px;
+    border: 1px solid white;
+    text-decoration: none;
+}
+.prixnoir a:hover{
+    background: rgb(218, 211, 211);
+    color:black;
+ }   
+.beige p{
+    color: white;
+    font-size: 50px;
+    margin-right: 0%;
+    margin-top: 5%;
+}  
+.beige img{
+    width: 16%;
+    padding: 1px 1px;
+    border: 1px solid white;
+}  
+.carabeige p {
+    font-size: 30px;
+}
+.listbeige{
+    color: white;
+    margin-left: 30%;
+}
+.rose p{
+    margin-top: 5%;
+    color: white;
+    font-size: 50px;
+    margin-right: 0%;
+}  
+.rose img{
+    width: 20%;
+    padding: 1px 1px;
+    border: 1px solid white;
+}  
+.cararose p {
+    font-size: 30px;
+}
+.listrose{
+    color: white;
+    margin-left: 30%;
+}
